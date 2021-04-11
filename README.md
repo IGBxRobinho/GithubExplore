@@ -7,5 +7,21 @@
 
 
 <p>O layout para o desenvolvimento dessa tela está disponível no link abaixo</p>
-<a href="https://www.figma.com/file/HOCmxfrElzLpI75LdzFLia/Github-Explorer?node-id=0%3A1">Github Explore</a>
+<a href="https://www.figma.com/file/HOCmxfrElzLpI75LdzFLia/Github-Explorer?node-id=0%3A1" target="_blank">Github Explore</a>
 
+Para o desenvolvimento foi seguido a arquitetura de pasta.
+public
+    -->Index.html
+    -->robots.txt
+
+src
+    -->assets
+    
+    -->pages
+        -->Dashboard
+        -->Repository
+    -->routes
+    -->services
+    -->styles
+    
+    
