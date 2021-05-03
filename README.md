@@ -2,6 +2,8 @@
 
 Esse projeto permite a consuta dos repositórios do Github por meio da API do próprio Github.
 
+link externo: <a href="https://blissful-albattani-b7f119.netlify.app/">Github Explore</a>
+
 ## 🚀 Começando
 
 Para executar o projeto é necessário baixar o mesmo após executar o comando yarn install para instalação das dependencias de dev e em seguida yarn start.
