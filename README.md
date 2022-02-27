@@ -2,7 +2,7 @@
 
 Esse projeto permite a consuta dos repositórios do Github por meio da API do próprio Github.
 
-link externo: <a href="slimy-jewel.surge.sh" target="_blank">Github Explore</a>
+link externo: slimy-jewel.surge.sh
 
 ## 🚀 Começando
 
