@@ -2,7 +2,7 @@
 
 Esse projeto permite a consuta dos repositórios do Github por meio da API do próprio Github.
 
-link externo: <a href="https://blissful-albattani-b7f119.netlify.app/">Github Explore</a>
+link externo: <a href="slimy-jewel.surge.sh" target="_blank">Github Explore</a>
 
 ## 🚀 Começando
 
